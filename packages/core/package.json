@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@capi-module/core",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "05e4f1855a28516fe27600a35dc27bb9f85f55ec"
 }
