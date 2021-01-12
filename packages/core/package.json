@@ -1,6 +1,6 @@
 {
   "name": "@capi-module/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "05e4f1855a28516fe27600a35dc27bb9f85f55ec"
+  "gitHead": "9fd127ce5fd148fe81e7446c704a696a142bafb6"
 }
