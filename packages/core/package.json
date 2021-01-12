@@ -1,14 +1,19 @@
 {
-  "name": "@danghungtb26/core",
+  "name": "@capichi-module/core",
   "version": "0.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "sideEffects": false,
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danghungtb26/dvh-module-real.git",
+    "directory": "packages/core"
   },
   "keywords": [],
   "author": "",
