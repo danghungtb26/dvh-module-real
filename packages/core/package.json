@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "308de66272d3be5d105dd76e47e9e12be2ea4bbb"
+  "gitHead": "145170323d59048cebcef0a658dff4f2457c2ed5"
 }
