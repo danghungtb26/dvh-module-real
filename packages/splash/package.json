@@ -1,6 +1,6 @@
 {
-  "name": "@capichi-module/splash",
-  "version": "0.0.11",
+  "name": "@react-dvh-module/splash",
+  "version": "0.0.1",
   "description": "a",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
