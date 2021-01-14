@@ -1,6 +1,6 @@
 {
   "name": "@capichi-module/splash",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "a",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
