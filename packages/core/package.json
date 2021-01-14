@@ -1,6 +1,6 @@
 {
   "name": "@dvh-module/core",
-  "version": "0.0.9",
+  "version": "0.0.10-alpha.0",
   "description": "core",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
