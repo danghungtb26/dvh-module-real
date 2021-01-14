@@ -1,5 +1,5 @@
 {
-  "name": "@dvh-module/splash",
+  "name": "@capichi-module/splash",
   "version": "0.0.10",
   "description": "a",
   "main": "lib/commonjs/index",
@@ -93,5 +93,5 @@
       ]
     ]
   },
-  "gitHead": "4bcdfe8a9fbb3c9465bd14dee218c26f1f883312"
+  "gitHead": "fc59fa8aa39a93f9fb7e364b9660cb7f8e32428c"
 }
