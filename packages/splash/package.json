@@ -1,5 +1,5 @@
 {
-  "name": "@react-dvh-module/splash",
+  "name": "@capi-module/splash",
   "version": "0.0.12",
   "description": "a",
   "main": "lib/commonjs/index",
@@ -93,5 +93,5 @@
       ]
     ]
   },
-  "gitHead": "fc59fa8aa39a93f9fb7e364b9660cb7f8e32428c"
+  "gitHead": "d2904f3dc9d78acaccdd62a521e3e8e67f0ece7d"
 }
