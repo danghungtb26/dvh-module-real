@@ -7,4 +7,5 @@ babel.config.js
 .bootstrap.js
 */babel.config.js
 __tests__/
+packages/*/src/__tests__/
 .env

@@ -2,9 +2,16 @@
   "name": "root",
   "version": "0.0.3",
   "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "example"
+    ]
+  },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
+    "@types/jest": "^26.0.20",
     "@types/lodash": "^4.14.167",
     "@types/react": "^17.0.0",
     "@types/react-native": "^0.63.45",
@@ -32,6 +39,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danghungtb26/dvh-module-real.git"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   },
   "husky": {
     "hooks": {
