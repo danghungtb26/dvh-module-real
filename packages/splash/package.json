@@ -1,6 +1,6 @@
 {
   "name": "@capi-module/splash",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "a",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
