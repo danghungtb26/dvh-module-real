@@ -1,6 +1,6 @@
 {
   "name": "@dvh-module/splash",
-  "version": "0.0.14",
+  "version": "0.1.0",
   "description": "a",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
