@@ -1,5 +1,5 @@
 {
-  "name": "@danghungtb-module/splash",
+  "name": "@dvh-module/splash",
   "version": "0.0.14",
   "description": "a",
   "main": "lib/commonjs/index",
@@ -93,5 +93,5 @@
       ]
     ]
   },
-  "gitHead": "353ea4853a2c8c4cbf7d8e9441c90ea1043759cb"
+  "gitHead": "7345ecc5cd0cf0abcb43a667a16097855a36cbad"
 }

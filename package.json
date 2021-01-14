@@ -38,5 +38,12 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
       "pre-commit": "yarn lint && yarn typescript"
     }
+  },
+  "scripts": {
+    "test": "jest",
+    "typescript": "tsc --noEmit --composite false",
+    "lint": "eslint \"**/*.{js,ts,tsx}\"",
+    "prerelease": "lerna run clean",
+    "release": "lerna publish"
   }
 }
