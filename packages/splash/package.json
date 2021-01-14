@@ -1,6 +1,6 @@
 {
   "name": "@react-dvh-module/splash",
-  "version": "0.0.2",
+  "version": "0.0.12",
   "description": "a",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
