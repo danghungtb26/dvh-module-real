@@ -32,5 +32,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danghungtb26/dvh-module-real.git"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "yarn lint && yarn typescript"
+    }
   }
 }
