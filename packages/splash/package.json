@@ -1,5 +1,5 @@
 {
-  "name": "@capi-module/splash",
+  "name": "@danghungtb-module/splash",
   "version": "0.0.13",
   "description": "a",
   "main": "lib/commonjs/index",
@@ -93,5 +93,5 @@
       ]
     ]
   },
-  "gitHead": "d2904f3dc9d78acaccdd62a521e3e8e67f0ece7d"
+  "gitHead": "353ea4853a2c8c4cbf7d8e9441c90ea1043759cb"
 }
